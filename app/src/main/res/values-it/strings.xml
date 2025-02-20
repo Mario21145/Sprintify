@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sprintify</string>
+    <string name="home_fragment">Home</string>
+    <string name="run_fragment">Corsa</string>
+    <string name="info_fragment">Statistiche</string>
+</resources>

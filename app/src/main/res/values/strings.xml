@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sprintify</string>
+
+
+    <!--Name fragments-->
+    <string name="home_fragment">Home</string>
+    <string name="run_fragment">Run</string>
+    <string name="info_fragment">Stats</string>
+
+
+</resources>

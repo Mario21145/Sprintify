@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="black">#FF000000</color>
+    <color name="electric_blue">#007BFF</color>
+    <color name="vibrant_orange">#FF6600</color>
+    <color name="dark_navy">#1A1A2E</color>
+    <color name="cool_gray">#D9D9D9</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="yellow">#FFBF00</color>
+    <color name="blue">#3399FF</color>
+    <color name="light_gray">#E5E5E5</color>
+    <color name="dark_gray">#262626</color>
+
+<!--    &lt;!&ndash; Colori per tema chiaro &ndash;&gt;-->
+<!--    <color name="colorSelectedLight">#FF5722</color> &lt;!&ndash; Colore selezionato chiaro (Arancione) &ndash;&gt;-->
+<!--    <color name="colorUnselectedLight">#9E9E9E</color> &lt;!&ndash; Colore non selezionato chiaro (Grigio chiaro) &ndash;&gt;-->
+<!--    <color name="colorSelectedBackgroundLight">#FFCCBC</color> &lt;!&ndash; Background selezionato (arancione chiaro) &ndash;&gt;-->
+
+<!--    &lt;!&ndash; Colori per tema scuro &ndash;&gt;-->
+<!--    <color name="colorSelectedDark">#BB86FC</color> &lt;!&ndash; Colore selezionato scuro (Lilla) &ndash;&gt;-->
+<!--    <color name="colorUnselectedDark">#B0BEC5</color> &lt;!&ndash; Colore non selezionato scuro (Grigio chiaro) &ndash;&gt;-->
+<!--    <color name="colorSelectedBackgroundDark">#3700B3</color> &lt;!&ndash; Background selezionato (Blu scuro) &ndash;&gt;-->
+
+<!--    &lt;!&ndash; Colori di supporto &ndash;&gt;-->
+<!--    <color name="highlight">#FF4081</color> &lt;!&ndash; Colore di evidenza (Rosa acceso) &ndash;&gt;-->
+<!--    <color name="primary_dark">#303F9F</color> &lt;!&ndash; Blu scuro primario &ndash;&gt;-->
+<!--    <color name="secondary">#8BC34A</color> &lt;!&ndash; Verde chiaro &ndash;&gt;-->
+<!--    <color name="tertiary">#FFEB3B</color> &lt;!&ndash; Giallo vivace &ndash;&gt;-->
+
+</resources>

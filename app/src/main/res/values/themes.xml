@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Sprintify" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/yellow</item>
+        <item name="colorSecondary">@color/blue</item>
+        <item name="android:colorBackground">@color/light_gray</item>
+        <item name="android:textColorPrimary">@color/dark_gray</item>
+        <item name="android:textColorSecondary">@color/black</item>
+    </style>
+
+    <style name="Theme.Sprintify" parent="Base.Theme.Sprintify" />
+</resources>
